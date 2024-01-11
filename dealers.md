@@ -4,6 +4,6 @@
 
 | USUARIO          |   CÓDIGO                | CONTACTO    | ESTADO
 | ------------     | ------------            | ------------| ------------
-| [**Karim.dzn**](https://github.com/Karim-off)        | `KmZxVE5lIUVvrkqLd8EYJlC9G` | `IG: @karim._.off` | ✅
+| [**Karim.dzn**](https://github.com/Karim-off)        | `DmZxVE5lIUVvrkqLd8EYJlC9G` | `IG: @karim._.off` | ✅
 | ⚪        | ⚪               |  ⚪ | ⚪
 
